@@ -1,0 +1,13 @@
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\bin\Debug\QuanLyQuancafe.exe.config
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\bin\Debug\QuanLyQuancafe.exe
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\bin\Debug\QuanLyQuancafe.pdb
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\obj\Debug\QuanLyQuancafe.csprojAssemblyReference.cache
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\obj\Debug\QuanLyQuancafe.fLogin.resources
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\obj\Debug\QuanLyQuancafe.Properties.Resources.resources
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\obj\Debug\QuanLyQuancafe.csproj.GenerateResource.cache
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\obj\Debug\QuanLyQuancafe.csproj.CoreCompileInputs.cache
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\obj\Debug\QuanLyQuancafe.exe
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\obj\Debug\QuanLyQuancafe.pdb
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\obj\Debug\QuanLyQuancafe.fQuanlyCaFe.resources
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\obj\Debug\QuanLyQuancafe.ACCProfile.resources
+D:\Code C++,C#\code C#\QuanLyQuancafe\QuanLyQuancafe\obj\Debug\QuanLyQuancafe.fAdim.resources
